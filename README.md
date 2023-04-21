@@ -1,4 +1,4 @@
-# ysdev_retailapp_april23
+# flutter_shopapp
 
 A new Flutter project.
 
